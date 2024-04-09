@@ -1,4 +1,4 @@
-
+![blog_img6](https://github.com/parksohyunnn/parksohyunnn/assets/164127801/16a3053a-12db-49e5-8e95-2dcb8d875635)
 # Hello, I'm Park So-hyun, a front-end developer who can plan and design.
 
 
