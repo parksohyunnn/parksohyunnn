@@ -1,4 +1,4 @@
-![Uploading header.jpg…]()
+![header](https://github.com/parksohyunnn/class2024/assets/164127801/00425132-17c5-4bca-a090-97dd18c6a534)
 # Hello, I'm Park So-hyun, a front-end developer who can plan and design.
 
 
