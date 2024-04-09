@@ -1,8 +1,9 @@
-![header](https://github.com/parksohyunnn/class2024/assets/164127801/00425132-17c5-4bca-a090-97dd18c6a534)
-# Hello, I'm Park So-hyun, a front-end developer who can plan and design.
+![giffycanvas](https://github.com/parksohyunnn/class2024/assets/164127801/575497a6-029b-4a20-b586-d82d828d4d30)
+# Hello
+안녕하세요. 흐름을 파악하고 크리에이티브한 사고로 소통하는 디자이너 출신 프론트엔드 개발자 박소현입니다.
 
 
-## TE
+## Skills
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-5D96CB?style=flat&logo=appvey=c%2B%2B&logoColor=61DAFB" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-809F85?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-FFDC62?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
