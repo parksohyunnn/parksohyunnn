@@ -3,6 +3,8 @@
 <div align="center"> 흐름을 파악하고 크리에이티브한 사고로 소통하는 그래픽 디자이너 및 프론트엔드 개발자 박소현입니다. </div>
 
 
+
+
 ## <div align="center">Skills </div>
 ![skill](https://github.com/parksohyunnn/class2024/assets/164127801/8bf73bac-9b82-4a46-a3ad-28297974482e) 
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-5D96CB?style=flat&logo=appvey=c%2B%2B&logoColor=61DAFB" height="25px"/>
