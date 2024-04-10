@@ -4,7 +4,7 @@
 
 
 ## Skills
-![b-1](https://github.com/parksohyunnn/class2024/assets/164127801/97f055dd-3b68-4a79-83eb-01528dfc0393)   
+![skill](https://github.com/parksohyunnn/class2024/assets/164127801/98d41615-bfaa-455a-bea0-2e8d51798cd1)  
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-5D96CB?style=flat&logo=appvey=c%2B%2B&logoColor=61DAFB" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-809F85?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-FFDC62?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
