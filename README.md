@@ -1,6 +1,6 @@
 ![giffycanvas](https://github.com/parksohyunnn/class2024/assets/164127801/575497a6-029b-4a20-b586-d82d828d4d30)
 
-# <div align="center"> <span style="color:gold">Hello, I'm so-hyun</span> </div>
+# <div align="center"> Hello, I'm so-hyun </div>
 
 ### <div align="center"> 흐름을 파악하고 크리에이티브한 사고로 소통하는 그래픽 디자이너 및 프론트엔드 개발자 박소현입니다. </div>
 
@@ -8,7 +8,7 @@
 
 
 
-# SKILLS </div>
+## SKILLS </div>
 ![skill](https://github.com/parksohyunnn/class2024/assets/164127801/8bf73bac-9b82-4a46-a3ad-28297974482e) 
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-5D96CB?style=flat&logo=appvey=c%2B%2B&logoColor=61DAFB" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-809F85?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -34,7 +34,7 @@
 
 <br><br>
 
-# STUDY (2024.03.18 ~ing) </div>
+## STUDY (2024.03.18 ~ing) </div>
 - [메인페이지] - (https://parksohyunnn.github.io/class2024/)
 
 - [자바스크립트] - (https://parksohyunnn.github.io/class2024/javascript/index.html)
@@ -47,7 +47,7 @@
 
 <br><br>
 
-## PROJECT1 (2024.04.01 ~) </div>
+### PROJECT1 (2024.04.01 ~) </div>
 
 [Project01 : Way Run Meaning (러닝&마라톤 정보 사이트)] - (http://sohyuun.dothome.co.kr/index.php)
 
