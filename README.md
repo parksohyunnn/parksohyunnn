@@ -2,6 +2,7 @@
 # <div align="center"> Hello, I'm so-hyun </div>
 <div align="center"> 흐름을 파악하고 크리에이티브한 사고로 소통하는 그래픽 디자이너 및 프론트엔드 개발자 박소현입니다. </div>
 
+<br>
 
 
 
@@ -29,6 +30,8 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 
+<br>
+
 ## STUDY (2024.03.18 ~ing) </div>
 - [메인페이지] - (https://parksohyunnn.github.io/class2024/)
 
@@ -40,7 +43,10 @@
 
 - [Github Blog] - (https://parksohyunnn.github.io/)
 
+<br>
+
 ## PROJECT1 (2024.04.01 ~) </div>
+
 [Project01 : Way Run Meaning (러닝&마라톤 정보 사이트)] - (http://sohyuun.dothome.co.kr/index.php)
 
 [Project01 : Way Run Meaning(프로젝트 설명)] - (https://github.com/parksohyunnn/Way-Run-Meaning))
