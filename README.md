@@ -51,5 +51,5 @@
 
 - [Project1 : Way Run Meaning (러닝&마라톤 정보 사이트)] - (http://sohyuun.dothome.co.kr/index.php)
 
-- [Project1 : Way Run Meaning(프로젝트 설명)] - (https://github.com/parksohyunnn/Way-Run-Meaning))
+- [Project1 : Way Run Meaning(프로젝트 설명)] - (https://github.com/parksohyunnn/Way-Run-Meaning)
 
