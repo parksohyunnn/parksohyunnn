@@ -1,6 +1,6 @@
 ![giffycanvas](https://github.com/parksohyunnn/class2024/assets/164127801/575497a6-029b-4a20-b586-d82d828d4d30)
 
-# <div align="center"> **Hello, I'm so-hyun** </div>
+# <div align="center"> <span style="color:gold">**Hello, I'm so-hyun** </span></div>
 
 ### <div align="center"> 흐름을 파악하고 크리에이티브한 사고로 소통하는 그래픽 디자이너 및 프론트엔드 개발자 박소현입니다. </div>
 
