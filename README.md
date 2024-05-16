@@ -43,6 +43,10 @@
 
 - [Quiz game] - (https://parksohyunnn.github.io/class2024/quiz/index.html)
 
+- [웹디자인 기능사 레이아웃] - (https://parksohyunnn.github.io/class2024/webd/index.html)
+
+- [이펙트_GSAP] - (https://parksohyunnn.github.io/class2024/effect/index.html)
+
 - [Github Blog] - (https://parksohyunnn.github.io/)
 
 <br><br>
