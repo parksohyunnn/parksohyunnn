@@ -35,19 +35,19 @@
 <br><br>
 
 ## STUDY (2024.03.18 ~ing) </div>
-- [메인페이지] - (https://parksohyunnn.github.io/class2024/)
+- [메인페이지]_ (https://parksohyunnn.github.io/class2024/)
 
-- [자바스크립트] - (https://parksohyunnn.github.io/class2024/javascript/index.html)
+- [자바스크립트]_ https://parksohyunnn.github.io/class2024/javascript/index.html)
 
-- [MySQL] - (https://parksohyunnn.github.io/class2024/mysql/index.html)
+- [MySQL]_ (https://parksohyunnn.github.io/class2024/mysql/index.html)
 
-- [Quiz game] - (https://parksohyunnn.github.io/class2024/quiz/index.html)
+- [Quiz game]_ (https://parksohyunnn.github.io/class2024/quiz/index.html)
 
-- [웹디자인 기능사 레이아웃] - (https://parksohyunnn.github.io/class2024/webd/index.html)
+- [웹디자인 기능사 레이아웃]_ (https://parksohyunnn.github.io/class2024/webd/index.html)
 
-- [이펙트_GSAP] - (https://parksohyunnn.github.io/class2024/effect/index.html)
+- [이펙트_GSAP]_ (https://parksohyunnn.github.io/class2024/effect/index.html)
 
-- [Github Blog] - (https://parksohyunnn.github.io/)
+- [Github Blog]_ (https://parksohyunnn.github.io/)
 
 <br><br>
 
