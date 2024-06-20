@@ -17,6 +17,8 @@
 
 - [웹디자인 기능사 레이아웃]_ (https://parksohyunnn.github.io/class2024/webd/index.html)
 
+- [CSS를 이용한 애니메이션]_ (https://parksohyunnn.github.io/class2024/css/index.html)
+
 - [이펙트_GSAP]_ (https://parksohyunnn.github.io/class2024/effect/index.html)
 
 
@@ -32,4 +34,11 @@
 - [Project1 : Way Run Meaning (러닝&마라톤 정보 사이트)] - (http://sohyuun.dothome.co.kr/index.php)
 
 - [Project1 : Way Run Meaning(프로젝트 설명)] - (https://github.com/parksohyunnn/Way-Run-Meaning)
+
+<br><br>
+
+## SKILLS </div>
+![b-1](https://github.com/parksohyunnn/class2024/assets/164127801/2bf3f1db-59cd-40d2-b416-2fd5e6fc2d4a)
+
+
 
